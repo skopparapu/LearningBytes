@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
-    name: "Rana-product owner"
+    name: "Satya-product owner"
     email: "{cipher}e2380650eae4e99ebfff6f0cb3e00a5451ea043175711e7acba3439792f370f8b5c506ae438ca284fc6cac115607201d"
   onCallSupport:
     9986667891
