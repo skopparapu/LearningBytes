@@ -3,7 +3,7 @@ build:
   version: "1.3"
 
 loans:
-  message: "Welcome to EazyBank accounts related prod APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Rana-Product Owner"
     email: "rana@learningbytes.com"
