@@ -3,7 +3,7 @@ build:
   version: "2.2"
 
 loans:
-  message: "Welcome to EazyBank accounts related local APIs"
+  message: "Welcome to EazyBank accounts related test APIs"
   contactDetails:
     name: "Shwetha-Tester"
     email: "satya@learningbytes.com"
